@@ -1,0 +1,19 @@
+agno
+python-dotenv
+ddgs
+streamlit
+google-generativeai
+# phidata
+# yfinance
+# packaging
+# duckduckgo-search
+# fastapi
+# uvicorn
+# groq
+# openai
+# sqlalchemy
+# pgvector
+# psycopg[binary]
+# pypdf
+# phidata
+# duckduckgo-search

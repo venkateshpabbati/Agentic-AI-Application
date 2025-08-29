@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Jupyter and Streamlit
+.ipynb_checkpoints/
+.streamlit/
+
+# Logs and temp
+*.log
+*.tmp
+
+# Others
+*.sqlite3
+*.db
+
+# Ignore package lock files
+poetry.lock
+Pipfile.lock
